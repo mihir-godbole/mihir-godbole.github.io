@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/treasure-hunt-2024/static/css/main.bec542a0.css",
-    "main.js": "/treasure-hunt-2024/static/js/main.8883421e.js",
-    "static/js/453.5f2785fc.chunk.js": "/treasure-hunt-2024/static/js/453.5f2785fc.chunk.js",
-    "index.html": "/treasure-hunt-2024/index.html",
-    "main.bec542a0.css.map": "/treasure-hunt-2024/static/css/main.bec542a0.css.map",
-    "main.8883421e.js.map": "/treasure-hunt-2024/static/js/main.8883421e.js.map",
-    "453.5f2785fc.chunk.js.map": "/treasure-hunt-2024/static/js/453.5f2785fc.chunk.js.map"
+    "main.css": "/static/css/main.bec542a0.css",
+    "main.js": "/static/js/main.bbb55c8f.js",
+    "static/js/453.5f2785fc.chunk.js": "/static/js/453.5f2785fc.chunk.js",
+    "index.html": "/index.html",
+    "main.bec542a0.css.map": "/static/css/main.bec542a0.css.map",
+    "main.bbb55c8f.js.map": "/static/js/main.bbb55c8f.js.map",
+    "453.5f2785fc.chunk.js.map": "/static/js/453.5f2785fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bec542a0.css",
-    "static/js/main.8883421e.js"
+    "static/js/main.bbb55c8f.js"
   ]
 }
